@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = ./core
+	url = https://github.com/Julian30520/core.git
 [submodule "service"]
 	path = service
 	url = ./service
