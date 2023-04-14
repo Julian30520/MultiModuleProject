@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = ./core
+[submodule "service"]
+	path = service
+	url = ./service
+[submodule "webapp"]
+	path = webapp
+	url = ./webapp
