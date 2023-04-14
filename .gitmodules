@@ -6,4 +6,4 @@
 	url = https://github.com/Julian30520/service.git
 [submodule "webapp"]
 	path = webapp
-	url = ./webapp
+	url = https://github.com/Julian30520/webapp.git
