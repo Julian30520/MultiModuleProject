@@ -3,7 +3,7 @@
 	url = https://github.com/Julian30520/core.git
 [submodule "service"]
 	path = service
-	url = ./service
+	url = https://github.com/Julian30520/service.git
 [submodule "webapp"]
 	path = webapp
 	url = ./webapp
